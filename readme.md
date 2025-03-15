@@ -62,8 +62,9 @@ The 4Rent Mobile App Clone is an iOS application built using SwiftUI and Firebas
 
 ### Steps to Run the Project
 1. Clone Repository
-2. Set Up Firebase:
-  - Create a new project on the Firebase Console.
+  - git clone [https://github.com/KetanPaliwal2000/Rent4U-Project.git](https://github.com/KetanPaliwal2000/Rent4U-Project.git)
+3. Set Up Firebase:
+  - Create a new project on the [Firebase Console](https://console.firebase.google.com/).
   - Add an iOS app to your Firebase project and download the GoogleService-Info.plist file.
   - Place the GoogleService-Info.plist file in the Project directory.
 3. Install Dependencies:
