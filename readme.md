@@ -41,9 +41,17 @@ The 4Rent Mobile App Clone is an iOS application built using SwiftUI and Firebas
 
 ## Screenshots
 <div class="inline-block">
-  <img src="https://github.com/KetanPaliwal2000/Flag-Game/blob/a73b8b8ea3aa381d94102458433917fb9fd7b89e/Screenshot%201.jpg" alt="Screenshot 1" width="200">
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%201.png" alt="Screenshot 1" width="200">
   &nbsp;
-  <img src="https://github.com/KetanPaliwal2000/Flag-Game/blob/b23d6dc7098f4a4936d8b32f89c5cedc6fa2d70a/Screenshot%202.jpg" alt="Screenshot 2" width="200">
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%202.png" alt="Screenshot 2" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%203.png" alt="Screenshot 3" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%204.png" alt="Screenshot 4" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%205.png" alt="Screenshot 5" width="200">
+  &nbsp;
+  <img src="https://github.com/KetanPaliwal2000/Rent4U-Project/blob/main/Screenshot%206.png" alt="Screenshot 6" width="200">
 </div>
 
 ## Setup Instructions
